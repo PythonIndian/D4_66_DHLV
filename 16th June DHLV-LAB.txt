@@ -1,0 +1,3 @@
+1st count of customers state wise.
+In filters exclude will not be selected by default and if we select exclude and click on the check boxes then those items will be excluded.
+If we submit evaluation it will be valid from today if it is late,but experiment are equivalent to assignment and we have to still complete 7 experiments till this month end and maybe evaluation will not be given from now onwards so submit experiments on time as given.

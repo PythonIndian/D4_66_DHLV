@@ -1,0 +1,27 @@
+RCOEM-Wifi 
+Password:- aimlds@rcoem.
+
+Types of Filters
+Extract Filters
+Data Source Filters
+Context Filters
+     |->Sets,conditions,fixed
+Dimension Filters
+     |->Include/Exclude,Data blenders
+Measure Filters
+Table Calculations
+Action Filters
+
+HW 
+Tableau workbook extensions.
+Order of execution.
+Types of Filters.
+
+
+Tableau file saved as Tableau workbook extract
+3 categories me distribution kaisa ha aur har category me profit kitna aa raha in the form of Pie chart.
+sari sub-categories ka profit kitna hai region wise in stack bargraph.
+
+Problem statement
+Aise customers jinhone 2000 dollar se jyada ka saman kharida he in 4 years me.
+ye customers ka distribution kaisa he region wise.

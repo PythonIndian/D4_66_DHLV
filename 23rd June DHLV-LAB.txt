@@ -1,0 +1,18 @@
+Parameters
+Moving Average
+Sets
+Field
+Table calculations 
+Parameters Field.
+The file of parameters today's task will be send by sir do edit and send on GC.
+Table Calcualations:- Calculations that will be performed on table and also on the visualizations.
+Pareto Chart:- Focus on 20% thongs which give 80% output.
+Types of Ranking
+1.Dense Rank. 
+more types of ranking.
+Percentile-84 means scored more than 84% people.
+
+Home-Work
+Types of Ranking.
+LOD-Level of Details-Article.
+Pareto Chart.
